@@ -1,0 +1,55 @@
+h1{
+  margin-bottom: 0;
+  margin-top: 0;
+  color: #789461;
+  font-size: 625%;
+  font-style: oblique;
+}
+p{
+  margin-top: 0;
+  color: #FF9843;
+  font-size: 5em;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2em;
+}
+body{
+  margin: 0;
+  text-align: center;
+
+}
+.firstdiv{
+  background-color: #AAD9BB;
+  margin: 0;
+  position: relative;
+}
+.cloud1{
+  margin-left: -60%;
+  margin-top:0px;
+}
+.cloud2{
+  margin-right: -60%;
+  margin-bottom: 10px;
+}
+.mountain1{
+  align:center;
+  margin-top: -200px;
+}
+.middle-container{
+  margin-top: 150;
+  margin-left: 200;
+  height: 1920px;
+  background-color:#AAD9BB;
+  margin: 0;
+  font-family: 'Dancing script',cursive;
+}
+li{
+  color:#FF9843;
+  font-size: 1.5em;
+}
+.edu{
+  margin-left: 250;
+
+}
+.hobi{
+  margin-right: 0;
+}
